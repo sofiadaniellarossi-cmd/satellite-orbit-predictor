@@ -14,4 +14,11 @@ IA simple para **predecir y visualizar órbitas de satélites** usando Python.
 
 ## Cómo usarlo
 ```bash
-python predict.py
+pyth## Próximos pasos
+- [ ] Usar datos reales de satélites (TLE)
+- [ ] Predecir colisiones con IA
+- [ ] Integrar con PyTorch
+
+---
+⭐ **Hecho para hackathons de Espacio + IA**  
+🇦🇷 Argentina | @SpaceAIon predict.py
